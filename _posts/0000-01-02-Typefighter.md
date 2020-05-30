@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Bob Lob Law
+Amanda Hug N Kiss
+What is love?
+Baby don't hurt me
+No More
